@@ -1,9 +1,9 @@
-### Hi, I'm David — C / C++ systems developer at École 42
+### Hi, I'm David — C / C++ developer at École 42
 
 I write low-level software in C and C++: event loops, processes, threads, parsers, memory.
-I am looking for a **4–6 month software internship in embedded systems or aerospace**, starting **January 2027**, in Île-de-France.
+I am looking for a **6-month software development internship in the space or aerospace industry** (embedded, ground segment, simulation or tooling), starting **January 2027**, in Île-de-France.
 
-> 🇫🇷 Étudiant à l'École 42, je recherche un **stage de 4 à 6 mois en logiciel embarqué / systèmes** (aéronautique, spatial, défense) à partir de **janvier 2027**, en Île-de-France.
+> 🇫🇷 Étudiant à l'École 42, je recherche un **stage de 6 mois en développement logiciel pour le spatial ou l'aéronautique** (embarqué, segment sol, simulation ou outils) à partir de **janvier 2027**, en Île-de-France.
 
 <a href="https://www.linkedin.com/in/david-samuel-5522b7195"><img src="https://img.shields.io/badge/LinkedIn-David%20Samuel-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/Internship-from%20Jan%202027-2EA44F" alt="Available for an internship from January 2027">
