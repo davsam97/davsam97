@@ -14,6 +14,7 @@ I am looking for a **6-month software development internship in the space or aer
 
 | Project | What it is | What it shows |
 |---|---|---|
+| **[malloc](https://github.com/davsam97/malloc)** | Thread-safe reimplementation of `malloc` / `free` / `realloc` as a shared library, built only on `mmap` / `munmap`. Runs `ls`, `git`, `vim` and `python3` through `LD_PRELOAD`. *Solo, 125/100.* | Virtual memory and paging, allocator design (zones, segregated free lists, coalescing), shared libraries and symbol interposition, thread safety |
 | **[webserv](https://github.com/davsam97/webserv)** | Non-blocking HTTP/1.0 server in C++98, in the spirit of NGINX. One `poll()` loop serves every client, CGI runs asynchronously. *Team of 2.* | Sockets and event-driven I/O, `fork`/`execve`/pipes, protocol work from the RFCs, resource ownership in C++ |
 | **[miniRT](https://github.com/davsam97/miniRT)** | Ray tracer written from scratch in C: spheres, planes, cylinders, cones, Phong lighting, shadows, textures and bump mapping. *Team of 2.* | 3D math (vectors, intersections, TBN frames), rendering pipeline, modular C architecture |
 | **[minishell](https://github.com/davsam97/minishell)** | A bash-like Unix shell in C: AST parser, pipes, subshells, `&&` / `\|\|`, heredocs, wildcards, signals. *Team of 2.* | Parsing, process management, Unix signals, careful error handling |
