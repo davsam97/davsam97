@@ -31,14 +31,13 @@ Also: [push_swap](https://github.com/davsam97/push_swap) (sorting under constrai
 
 #### Toolbox
 
-- **Languages:** C (main), C++98, Bash, Python
-- **Systems:** POSIX processes and signals · pthreads, mutexes, semaphores · sockets and `poll()` · manual memory management
-- **Tools:** Linux, Git, Make, GCC / Clang, Valgrind, Docker
-- **Now:** bare-metal C on AVR (ATmega328P) in 42's embedded track, then STM32
+I mostly write C, and C++98 for the object-oriented projects. I also use Bash and some Python. On the systems side, I have worked with POSIX processes and signals, pthreads, mutexes and semaphores, sockets with `poll()`, and manual memory management. Day to day I use Linux, Git, Make, GCC and Clang, Valgrind and Docker.
+
+Right now I am doing bare-metal C on an AVR microcontroller (ATmega328P) in 42's embedded track. STM32 comes next.
 
 #### Background
 
 Before 42, I was an optician-optometrist, then ran my own small transport company.
 I switched to software in 2025. I grew up in French Guiana, home of Europe's spaceport.
 
-<sub>Most projects here were built at <a href="https://42.fr">École 42</a>: project-based, peer-reviewed, no teachers.</sub>
+<sub>Most projects here were built at <a href="https://42.fr">École 42</a>, where students learn through projects and grade each other's work.</sub>
